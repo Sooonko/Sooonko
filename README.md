@@ -4,8 +4,7 @@
 
 <p >
 	<a href="mailto:sonomdash11.com"><img src="https://img.shields.io/badge/Gmail-%23D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://www.linkedin.com/in/khumarbyek-beybit/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=flat-square&logo=LinkedIn&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://discordapp.com/users/Kumurbek#9180/"><img src="https://img.shields.io/badge/Discord-%237289DA?style=flat-square&logo=Discord&logoColor=white" alt="Discord"/></a>
+	<a href="https://discordapp.com/users/Sonomdash#5278/"><img src="https://img.shields.io/badge/Discord-%237289DA?style=flat-square&logo=Discord&logoColor=white" alt="Discord"/></a>
 </p>
 </br>
 
