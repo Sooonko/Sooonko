@@ -11,8 +11,8 @@
 💻Languages & Tools💻 
 ---
 #### ✔ ⌨️⌨ Stack
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"></a>
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"></a>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"></a>
@@ -33,10 +33,7 @@
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node JS"></a>
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Type Script"></a> 
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"></a> 
-<img src="https://img.shields.io/badge/Chrome%20Extension-4285F4?logo=googlechrome&logoColor=fff&style=flat-square" alt="Google Chrome Badge"></a> 
-<img src="https://img.shields.io/badge/Chrome%20Extension-4285F4?logo=googlechrome&logoColor=fff&style=flat-square" alt="Google Chrome Badge"></a> 
-
-
+<img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Google Chrome Badge"></a> 
 
 #### 👇 ETC  
 <img src="https://img.shields.io/badge/1Password-0094F5?logo=1password&logoColor=fff&style=flat-square" alt="1Password Badge"></a>
