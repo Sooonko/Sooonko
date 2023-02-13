@@ -52,9 +52,9 @@
 </br>
 </br>
 
-🙏Contribute🙏
+<!-- 🙏Contribute🙏
 ---
 <a href="https://github.com/Sooonko"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kumbey&count_private=true&stroke=0f172a&background=ffffff&ring=e25822&fire=e25822&currStreakNum=e25822&currStreakLabel=e25822&sideNums=38761d&sideLabels=38761d&dates=3d85c6&layout=compact" /></a>
   <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumbey&layout=compact&langs_count=6"/>
   
-<img src="https://visitor-badge.laobi.icu/badge?page_id=kumbey" alt="visitors">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=kumbey" alt="visitors"> -->
