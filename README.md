@@ -1,6 +1,6 @@
 <h2 >Hi there 👋, I'm Sonomdash.</h2>
 
-<p >I am growing as a front-end developer to create a fun world..</p>
+<p >I am growing as a front-end and back-end developer to create a fun world..</p>
 
 <p >
 	<a href="mailto:sonomdash11.com"><img src="https://img.shields.io/badge/Gmail-%23D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail"/></a>
